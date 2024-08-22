@@ -19,13 +19,13 @@ The system is built using the following components and technologies:
 - Zonal Area Division: To simplify monitoring, the city is divided into zones, and each street light pole is assigned a unique identifier. This enhances fault detection and maintenance efficiency.
 
 ## Outcome of the Project:
-### Reduced Maintenance Costs: 
+### - Reduced Maintenance Costs: 
 By detecting faults early and pinpointing their location, the system minimizes the need for costly manual inspections.
-### Improved Public Safety: 
+### - Improved Public Safety: 
 Ensures streets are consistently well-lit by enabling prompt repairs.
-### Enhanced Maintenance Efficiency: 
+### - Enhanced Maintenance Efficiency: 
 Reduces the time required to locate and fix street light issues.
-### Extended Lifespan of Street Lights: 
+### - Extended Lifespan of Street Lights: 
 Timely maintenance reduces wear and tear on street lighting infrastructure.
-### Scalability and Adaptability: 
+### - Scalability and Adaptability: 
 The system can be implemented in cities of all sizes, making it a versatile solution for urban infrastructure management.
